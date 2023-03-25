@@ -1,4 +1,4 @@
-# Arduino monitor water level
+# Arduino monitor water level with NodeMCU ESP8266
 
 This project will check water level in tank with HC-SR04 ultrasonic sensor, show in 0.96 inch OLED Display and send distance to firebase realtime database for React dash board in next project.
 
@@ -26,7 +26,7 @@ int maxDist = 1000; // Tank Height or full water level you need in millimeters
 ## Result in firebase realtime database
 <img alt="Firebased realtime database" src="https://i.ibb.co/mTXLQSX/Screenshot-2023-03-25-174941.png">
 
-## Diagram
+## Schematic
 
 ## HC-SR04 Ultrasonic Sensor
 
