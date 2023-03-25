@@ -24,7 +24,7 @@ int maxDist = 1000; // Tank Height or full water level you need in millimeters
 ```
 
 ## Schematic
-<img alt="Firebased realtime database" src="https://i.ibb.co/xqggfKV/Schematicwith-Line.png">
+<img alt="Schematicwith" src="https://i.ibb.co/xqggfKV/Schematicwith-Line.png">
 
 ## Pin Wiring for HC-SR04
 | HC-SR04 Pin  | NodeMCU ESP8266 |
@@ -48,3 +48,8 @@ int maxDist = 1000; // Tank Height or full water level you need in millimeters
 + Can change pumpstartmanual state to **ture** for start pump when water level < 80%
 + Can change pumpstopmanual state to **ture** for stop pump
 + Can change resetboard state to **ture** for restart board
+
+## Project photo
+<img alt="photo1" src="https://i.ibb.co/g68yS9v/IMG-8782.jpg">
+<img alt="photo1" src="https://i.ibb.co/6FBrkxZ/IMG-8784.jpg">
+
