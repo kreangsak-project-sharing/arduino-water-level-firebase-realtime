@@ -24,6 +24,7 @@ int maxDist = 1000; // Tank Height or full water level you need in millimeters
 ```
 
 ## Schematic
+<img alt="Firebased realtime database" src="https://i.ibb.co/xqggfKV/Schematicwith-Line.png">
 
 ## HC-SR04 Ultrasonic Sensor
 
