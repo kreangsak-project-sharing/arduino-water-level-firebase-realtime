@@ -26,7 +26,7 @@ int maxDist = 1000; // Tank Height or full water level you need in millimeters
 ## Schematic
 <img alt="Firebased realtime database" src="https://i.ibb.co/xqggfKV/Schematicwith-Line.png">
 
-## HC-SR04 Pin Wiring
+## Pin Wiring for HC-SR04
 | HC-SR04 Pin  | NodeMCU ESP8266 |
 | ------------ | --------------- |
 | VCC  | VU  |
@@ -34,7 +34,7 @@ int maxDist = 1000; // Tank Height or full water level you need in millimeters
 | ECHO  | D8  |
 | GND  | GND  |
 
-## 0.96 inch OLED Display Pin Wiring
+## Pin Wiring for 0.96 inch OLED Display
 | 0.96 inch OLED Display  | NodeMCU ESP8266 |
 | ----------------------- | --------------- |
 | GND  | GND  |
