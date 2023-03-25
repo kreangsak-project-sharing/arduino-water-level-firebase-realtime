@@ -26,9 +26,21 @@ int maxDist = 1000; // Tank Height or full water level you need in millimeters
 ## Schematic
 <img alt="Firebased realtime database" src="https://i.ibb.co/xqggfKV/Schematicwith-Line.png">
 
-## HC-SR04 Ultrasonic Sensor
+## HC-SR04 Pin Wiring
+| HC-SR04 Pin  | NodeMCU ESP8266 |
+| ------------ | --------------- |
+| VCC  | VU  |
+| TRIG  | D7  |
+| ECHO  | D8  |
+| GND  | GND  |
 
-## 0.96 inch OLED Display
+## 0.96 inch OLED Display Pin Wiring
+| 0.96 inch OLED Display  | NodeMCU ESP8266 |
+| ----------------------- | --------------- |
+| GND  | GND  |
+| VDD  | 3V  |
+| SCK  | GPIO 5 (D1) |
+| SDA  | GPIO 4 (D2) |
 
 ## Result in firebase realtime database
 <img alt="Firebased realtime database" src="https://i.ibb.co/mTXLQSX/Screenshot-2023-03-25-174941.png">
