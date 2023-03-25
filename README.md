@@ -29,10 +29,10 @@ int maxDist = 1000; // Tank Height or full water level you need in millimeters
 ## Pin wiring for LED & Relay Pump
 | LED & Relay  | NodeMCU ESP8266 | Remark |
 | ------------ | --------------- | -------|
-| LED Wifi Status  | D3  | Check Wifi Connect |
-| LED Pump Working  | D4  | Check Pump Working |
-| LED Pump Stop  | D5  | Check Pump Stop |
-| Pump Start for Relay  | D6  | Replace this to Relay |
+| LED Wifi Status  | D3  | Check wifi connection |
+| LED Pump Working  | D4  | Check pump working |
+| LED Pump Stop  | D5  | Check pump stop |
+| Pump Start for Relay  | D6  | Replace this to relay |
 
 
 ## Pin Wiring for HC-SR04
