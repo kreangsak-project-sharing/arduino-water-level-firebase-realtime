@@ -31,6 +31,6 @@ int maxDist = 1000; // Tank Height or full water level you need in millimeters
 
 ## Result in firebase realtime database
 <img alt="Firebased realtime database" src="https://i.ibb.co/mTXLQSX/Screenshot-2023-03-25-174941.png">
-+ Can change pumpstartmanual state to **ture** for start pump when water level < 80% 
-+ Can change pumpstopmanual state to **ture** for stop pump
-+ Can change resetboard state to **ture** for restart board
+Can change pumpstartmanual state to **ture** for start pump when water level < 80% 
+Can change pumpstopmanual state to **ture** for stop pump
+Can change resetboard state to **ture** for restart board
