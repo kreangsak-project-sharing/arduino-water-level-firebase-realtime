@@ -50,6 +50,6 @@ int maxDist = 1000; // Tank Height or full water level you need in millimeters
 + Can change resetboard state to **ture** for restart board
 
 ## Project photo
-<img alt="photo1" src="https://i.ibb.co/g68yS9v/IMG-8782.jpg">
+<img alt="photo1" src="https://i.ibb.co/zSCpRzh/IMG-8791.jpg">
 <img alt="photo1" src="https://i.ibb.co/6FBrkxZ/IMG-8784.jpg">
 
