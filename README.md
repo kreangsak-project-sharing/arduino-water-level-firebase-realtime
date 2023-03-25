@@ -26,6 +26,15 @@ int maxDist = 1000; // Tank Height or full water level you need in millimeters
 ## Schematic
 <img alt="Schematicwith" src="https://i.ibb.co/xqggfKV/Schematicwith-Line.png">
 
+## Pin wiring for LED & Relay Pump
+| LED & Relay  | NodeMCU ESP8266 |
+| ------------ | --------------- |
+| LED Wifi Status  | D3  |
+| LED Pump Working  | D4  |
+| LED Pump Stop  | D5  |
+| Pump Start for Relay  | D6  |
+
+
 ## Pin Wiring for HC-SR04
 | HC-SR04 Pin  | NodeMCU ESP8266 |
 | ------------ | --------------- |
@@ -34,7 +43,7 @@ int maxDist = 1000; // Tank Height or full water level you need in millimeters
 | ECHO  | D8  |
 | GND  | GND  |
 
-## Pin Wiring for 0.96 inch OLED Display
+## Pin wiring for 0.96 inch OLED Display
 | 0.96 inch OLED Display  | NodeMCU ESP8266 |
 | ----------------------- | --------------- |
 | GND  | GND  |
