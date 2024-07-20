@@ -61,8 +61,8 @@ int maxDist = 1000; // Tank Height or full water level you need in millimeters
 + Can change resetboard state to **ture** for restart board
 
 ## Project photo
-<img alt="photo1" src="https://i.ibb.co/zSCpRzh/IMG-8791.jpg">
-<img alt="photo1" src="https://i.ibb.co/6FBrkxZ/IMG-8784.jpg">
+<img alt="photo1" src="https://raw.githubusercontent.com/kreangsak-project-sharing/arduino-water-level-firebase-realtime/main/Screenshots/IMG_8791.jpg">
+<img alt="photo1" src="https://raw.githubusercontent.com/kreangsak-project-sharing/arduino-water-level-firebase-realtime/main/Screenshots/IMG_8784.jpg">
 
 ## Other project
 + Dashbased for monitor by Reacjs: https://github.com/kreangsak-project-sharing/react-dashboard-water-level
