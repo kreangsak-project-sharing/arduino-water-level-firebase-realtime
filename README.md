@@ -26,7 +26,7 @@ int maxDist = 1000; // Tank Height or full water level you need in millimeters
 ```
 
 ## Schematic
-<img alt="Schematicwith" src="https://i.ibb.co/xqggfKV/Schematicwith-Line.png">
+<img alt="Schematicwith" src="https://raw.githubusercontent.com/kreangsak-project-sharing/arduino-water-level-firebase-realtime/main/Screenshots/SchematicwithLine.png">
 
 ## Pin wiring for LED & Relay Pump
 | LED & Relay  | NodeMCU ESP8266 | Remark |
@@ -54,7 +54,7 @@ int maxDist = 1000; // Tank Height or full water level you need in millimeters
 | SDA  | GPIO 4 (D2) |
 
 ## Result in firebase realtime database
-<img alt="Firebased realtime database" src="https://i.ibb.co/mTXLQSX/Screenshot-2023-03-25-174941.png">
+<img alt="Firebased realtime database" src="https://raw.githubusercontent.com/kreangsak-project-sharing/arduino-water-level-firebase-realtime/main/Screenshots/Screenshot%202023-03-25%20174941.png">
 
 + Can change pumpstartmanual state to **ture** for start pump when water level < 80%
 + Can change pumpstopmanual state to **ture** for stop pump
