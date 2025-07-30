@@ -2,7 +2,7 @@
 
 This project will check water level in tank if water level < 20% pump will start and when water level > 80% pump will stop with HC-SR04 ultrasonic sensor, show data in 0.96 inch OLED Display and send distance to firebase realtime database for React dash board in next project.
 
-Dashbased for monitor by Reacjs: https://github.com/kreangsak-project-sharing/react-dashboard-water-level
+Dashbased for monitor by ReactJs: https://github.com/kreangsak-project-sharing/react-dashboard-water-level
 
 ## Arduino Library use
 1. Arduino core for ESP8266 WiFi chip: https://github.com/esp8266/Arduino
